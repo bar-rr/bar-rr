@@ -17,7 +17,7 @@ Scalable AI-powered voice assistant that automates clinic appointment handling t
 
 ### 📬 Contact
 - [LinkedIn](https://www.linkedin.com/in/baris-yurttas)
-- Email: baris.yurttas@gmail.com
+- Email: barisyurttas@gmail.com
 
 ---
 
